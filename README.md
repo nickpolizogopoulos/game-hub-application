@@ -1,4 +1,4 @@
-# React - GameHub AppLication
+# React - GameHub Application
 
 This is my first React project using TypeScript and Chakra UI during my React v18 course.
 
